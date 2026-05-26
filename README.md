@@ -1,0 +1,2 @@
+# Cloud-Security-Implementation-Project
+This project demonstrates the implementation of foundational cloud security controls aligned with ISO/IEC 27001:2022, NIST Cybersecurity Framework (CSF), and CIS Critical Security Controls. The objective was to establish a secure AWS environment with strong identity governance, access control, logging, monitoring, and alerting mechanisms.
